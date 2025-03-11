@@ -22,3 +22,25 @@
 ______________________________________________________________________________________________________________________________________________
 
 ## Режим двух игроков
+
+## 📝 Файлы:
+- **ConsoleApplication3.cpp** — код программы.
+- **poyasnenie№6.docx** — пояснение кода.
+
+![image](https://github.com/user-attachments/assets/57e4586b-a1bd-4e4a-9496-7bd52efc0f69)
+
+# После выбора первого игрока
+
+![image](https://github.com/user-attachments/assets/77d97e18-147a-482c-813f-074a0289e6fd)
+
+# После выбора второго игрока 
+
+![image](https://github.com/user-attachments/assets/17a51c5f-b9df-47be-9c70-42236b176ad3)
+
+![image](https://github.com/user-attachments/assets/9b621971-41ee-4365-a3cd-c713727eeb50)
+
+![image](https://github.com/user-attachments/assets/eab8357e-0466-41d0-ab2a-f15cfe5ac51a)
+
+
+
+
